@@ -1,3 +1,3 @@
-export const test1 = "this is JS test 1";
-const test2 = "this is JS test 2";
+export const test1 = 'This is a js named export';
+const test2 = 'This is a js default export';
 export default test2;
